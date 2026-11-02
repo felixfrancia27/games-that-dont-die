@@ -1,7 +1,9 @@
 # Games That Don't Die
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23875636.svg)](https://doi.org/10.5281/zenodo.23875636)
+
 Code and data for the paper **"Games That Don't Die: Operator-Independent Competitive Infrastructure for
-Abandoned Multiplayer Games"** (Félix Francia, draft v0.2, November 2026). PDF: [`paper/games-that-dont-die-v0.2.pdf`](paper/games-that-dont-die-v0.2.pdf).
+Abandoned Multiplayer Games"** (Félix Francia, draft v0.2, November 2026). PDF: [`paper/games-that-dont-die-v0.2.pdf`](paper/games-that-dont-die-v0.2.pdf). Preprint record: [doi:10.5281/zenodo.23875636](https://doi.org/10.5281/zenodo.23875636).
 
 When an online game loses its operator, communities can revive the servers, but the competitive memory
 (rankings, match history, titles) dies with whoever kept the database. The paper asks how a ranking can
@@ -83,9 +85,13 @@ Code: MIT (see `LICENSE`). Data: [CC BY 4.0](https://creativecommons.org/license
 
 ```bibtex
 @misc{francia2026gamesthatdontdie,
-  title  = {Games That Don't Die: Operator-Independent Competitive Infrastructure for Abandoned Multiplayer Games},
-  author = {Francia, F\'elix},
-  year   = {2026},
-  note   = {Draft v0.2}
+  title     = {Games That Don't Die: Operator-Independent Competitive Infrastructure for Abandoned Multiplayer Games},
+  author    = {Francia, F\'elix},
+  year      = {2026},
+  publisher = {Zenodo},
+  version   = {0.2},
+  doi       = {10.5281/zenodo.23875636},
+  url       = {https://doi.org/10.5281/zenodo.23875636},
+  note      = {Preprint}
 }
 ```

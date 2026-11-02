@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper."
+title: "Games That Don't Die: code and anonymised data"
+authors:
+  - family-names: Francia
+    given-names: Félix
+    affiliation: Independent researcher
+repository-code: "https://github.com/felixfrancia27/games-that-dont-die"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Games That Don't Die: Operator-Independent Competitive Infrastructure for Abandoned Multiplayer Games"
+  authors:
+    - family-names: Francia
+      given-names: Félix
+      affiliation: Independent researcher
+  year: 2026
+  doi: "10.5281/zenodo.23875636"
+  url: "https://doi.org/10.5281/zenodo.23875636"
+  publisher:
+    name: Zenodo
+  notes: "Preprint, version 0.2"
