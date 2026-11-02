@@ -15,6 +15,10 @@ network of community-hosted rooms.
 Everything in this repository runs from one file of anonymised real matches. Every table of results in the
 paper can be regenerated with one command.
 
+## Policy brief
+
+[`policy/keeping-the-score-brief.pdf`](policy/keeping-the-score-brief.pdf): *Keeping the Score: Competitive Memory at a Game's End of Life*, a short brief for the EU end-of-life code of conduct. Recommendation: when a game with ranked play shuts down, the publisher releases the anonymised match history, the rating rules and the final standings.
+
 ## What the paper shows
 
 Proven (proofs in the paper, Sections 5 and 8):
