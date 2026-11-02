@@ -1,0 +1,9 @@
+{
+  "title": "Games That Don't Die: code and anonymised data",
+  "upload_type": "software",
+  "description": "<p>Code and anonymised match data for the paper <em>Games That Don't Die: Operator-Independent Competitive Infrastructure for Abandoned Multiplayer Games</em>. One command (<code>./run_all.sh</code>) regenerates every result table of the paper from 1,435 real matches of Warband Premier, a competitive network for Mount &amp; Blade: Warband.</p>",
+  "creators": [{ "name": "Francia, Félix" }],
+  "license": "MIT",
+  "keywords": ["game preservation", "skill rating", "truth discovery", "Sybil resistance", "decentralised systems", "Elo", "Bradley-Terry", "blockchain", "Mount & Blade: Warband", "Stop Killing Games"],
+  "version": "0.2"
+}
