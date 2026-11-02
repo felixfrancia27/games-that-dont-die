@@ -1,0 +1,2 @@
+f=0.25: per-host false flag 0.008, any host 0.033 (nominal any-host 0.010), n=60
+f=1.0: per-host false flag 0.058, any host 0.233 (nominal any-host 0.010), n=60

@@ -34,9 +34,9 @@ Measured on 1,435 real matches by 138 players, with simulated hosts and injected
 
 | Finding | Script | Output |
 | --- | --- | --- |
-| A lying host is caught in 89–100% of trials once it flips half of a target's losses; plain Elo lets the target climb 8–20 places. Without cross-host overlap, honest hosts of strong players are falsely accused in up to 44% of trials. | `src/srtd.py` | `results/lying_host.json` |
+| A lying host is caught in 97–100% of trials once it flips half of a target's losses; plain Elo lets the target climb 10–20 places. Without cross-host overlap, honest hosts of strong players are falsely accused in up to 31% of trials. | `src/srtd.py` | `results/lying_host.json` |
 | Calibration of that test with no attack | `src/null_calib.py` | `results/null_calibration.txt` |
-| A joint skill-and-bias model under a median-like gauge removes about two thirds of the rank a lie buys and flags no honest host; a mean gauge fails, as Proposition 5 predicts. | `src/joint.py` | `results/joint.json` |
+| A joint skill-and-bias model under a median-like gauge removes half to three quarters of the rank a lie buys and flags no honest host in 324 trials. | `src/joint.py` | `results/joint.json` |
 | The model-free test makes no false accusation in 180 attack-free trials and is most powerful when a player splits matches evenly. | `src/modelfree.py` | `results/modelfree.json` |
 | A farm of 12 fake accounts takes 17% of tokens under per-match issuance and 19% under information-only weighting, but at most 3.2% with trust; a trust gate keeps every fake account out of the ranking. | `src/sybil.py` | `results/sybil_*.json` |
 
@@ -54,7 +54,7 @@ pip install numpy
 ./run_all.sh lying        # or one at a time: lying | null | joint | modelfree | sybil
 ```
 
-Results are written to `results/`. All randomness is seeded, so runs are repeatable.
+Results are written to `results/`. All randomness is seeded, so runs are repeatable: the numbers in `results/` are exactly the ones reported in the paper. Each setting uses 36 trials, so rates near 50% carry a 95% interval of about ±16 points.
 
 ## Data
 

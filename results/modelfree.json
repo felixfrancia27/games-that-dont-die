@@ -1,0 +1,122 @@
+[
+ {
+  "f": 0.25,
+  "lam": 0.0,
+  "caught": 0.0,
+  "honest_flagged": 0.0
+ },
+ {
+  "f": 0.25,
+  "lam": 0.25,
+  "caught": 0.0,
+  "honest_flagged": 0.0
+ },
+ {
+  "f": 0.25,
+  "lam": 0.5,
+  "caught": 0.333,
+  "honest_flagged": 0.0
+ },
+ {
+  "f": 0.25,
+  "lam": 1.0,
+  "caught": 1.0,
+  "honest_flagged": 0.0
+ },
+ {
+  "f": 0.5,
+  "lam": 0.0,
+  "caught": 0.0,
+  "honest_flagged": 0.0
+ },
+ {
+  "f": 0.5,
+  "lam": 0.25,
+  "caught": 0.028,
+  "honest_flagged": 0.0
+ },
+ {
+  "f": 0.5,
+  "lam": 0.5,
+  "caught": 0.694,
+  "honest_flagged": 0.0
+ },
+ {
+  "f": 0.5,
+  "lam": 1.0,
+  "caught": 1.0,
+  "honest_flagged": 0.0
+ },
+ {
+  "f": 0.75,
+  "lam": 0.0,
+  "caught": 0.0,
+  "honest_flagged": 0.0
+ },
+ {
+  "f": 0.75,
+  "lam": 0.25,
+  "caught": 0.0,
+  "honest_flagged": 0.0
+ },
+ {
+  "f": 0.75,
+  "lam": 0.5,
+  "caught": 0.5,
+  "honest_flagged": 0.0
+ },
+ {
+  "f": 0.75,
+  "lam": 1.0,
+  "caught": 1.0,
+  "honest_flagged": 0.0
+ },
+ {
+  "f": 0.9,
+  "lam": 0.0,
+  "caught": 0.0,
+  "honest_flagged": 0.0
+ },
+ {
+  "f": 0.9,
+  "lam": 0.25,
+  "caught": 0.0,
+  "honest_flagged": 0.0
+ },
+ {
+  "f": 0.9,
+  "lam": 0.5,
+  "caught": 0.056,
+  "honest_flagged": 0.0
+ },
+ {
+  "f": 0.9,
+  "lam": 1.0,
+  "caught": 0.861,
+  "honest_flagged": 0.028
+ },
+ {
+  "f": 1.0,
+  "lam": 0.0,
+  "caught": 0.0,
+  "honest_flagged": 0.0
+ },
+ {
+  "f": 1.0,
+  "lam": 0.25,
+  "caught": 0.0,
+  "honest_flagged": 0.0
+ },
+ {
+  "f": 1.0,
+  "lam": 0.5,
+  "caught": 0.0,
+  "honest_flagged": 0.0
+ },
+ {
+  "f": 1.0,
+  "lam": 1.0,
+  "caught": 0.0,
+  "honest_flagged": 0.028
+ }
+]

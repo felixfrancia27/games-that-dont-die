@@ -1,0 +1,167 @@
+[
+ {
+  "f": 0.25,
+  "lam": 0.25,
+  "detect": 0.222,
+  "fp_honest": 0.028,
+  "detect_iter": 0.222,
+  "fp_honest_iter": 0.056,
+  "false_flag_no_attack": 0.0,
+  "false_flag_no_attack_iter": 0.0,
+  "elo_rank_gain": 9.5
+ },
+ {
+  "f": 0.25,
+  "lam": 0.5,
+  "detect": 0.972,
+  "fp_honest": 0.028,
+  "detect_iter": 0.972,
+  "fp_honest_iter": 0.167,
+  "false_flag_no_attack": 0.0,
+  "false_flag_no_attack_iter": 0.0,
+  "elo_rank_gain": 14.139
+ },
+ {
+  "f": 0.25,
+  "lam": 1.0,
+  "detect": 1.0,
+  "fp_honest": 0.194,
+  "detect_iter": 1.0,
+  "fp_honest_iter": 0.167,
+  "false_flag_no_attack": 0.0,
+  "false_flag_no_attack_iter": 0.0,
+  "elo_rank_gain": 18.833
+ },
+ {
+  "f": 0.5,
+  "lam": 0.25,
+  "detect": 0.583,
+  "fp_honest": 0.056,
+  "detect_iter": 0.583,
+  "fp_honest_iter": 0.111,
+  "false_flag_no_attack": 0.0,
+  "false_flag_no_attack_iter": 0.0,
+  "elo_rank_gain": 14.111
+ },
+ {
+  "f": 0.5,
+  "lam": 0.5,
+  "detect": 1.0,
+  "fp_honest": 0.083,
+  "detect_iter": 1.0,
+  "fp_honest_iter": 0.111,
+  "false_flag_no_attack": 0.0,
+  "false_flag_no_attack_iter": 0.0,
+  "elo_rank_gain": 18.917
+ },
+ {
+  "f": 0.5,
+  "lam": 1.0,
+  "detect": 1.0,
+  "fp_honest": 0.25,
+  "detect_iter": 1.0,
+  "fp_honest_iter": 0.139,
+  "false_flag_no_attack": 0.0,
+  "false_flag_no_attack_iter": 0.0,
+  "elo_rank_gain": 20.333
+ },
+ {
+  "f": 0.75,
+  "lam": 0.25,
+  "detect": 0.75,
+  "fp_honest": 0.028,
+  "detect_iter": 0.75,
+  "fp_honest_iter": 0.056,
+  "false_flag_no_attack": 0.028,
+  "false_flag_no_attack_iter": 0.028,
+  "elo_rank_gain": 16.556
+ },
+ {
+  "f": 0.75,
+  "lam": 0.5,
+  "detect": 1.0,
+  "fp_honest": 0.056,
+  "detect_iter": 1.0,
+  "fp_honest_iter": 0.056,
+  "false_flag_no_attack": 0.028,
+  "false_flag_no_attack_iter": 0.028,
+  "elo_rank_gain": 19.889
+ },
+ {
+  "f": 0.75,
+  "lam": 1.0,
+  "detect": 1.0,
+  "fp_honest": 0.139,
+  "detect_iter": 1.0,
+  "fp_honest_iter": 0.056,
+  "false_flag_no_attack": 0.028,
+  "false_flag_no_attack_iter": 0.028,
+  "elo_rank_gain": 20.333
+ },
+ {
+  "f": 0.9,
+  "lam": 0.25,
+  "detect": 0.917,
+  "fp_honest": 0.028,
+  "detect_iter": 0.917,
+  "fp_honest_iter": 0.028,
+  "false_flag_no_attack": 0.278,
+  "false_flag_no_attack_iter": 0.278,
+  "elo_rank_gain": 18.528
+ },
+ {
+  "f": 0.9,
+  "lam": 0.5,
+  "detect": 1.0,
+  "fp_honest": 0.056,
+  "detect_iter": 1.0,
+  "fp_honest_iter": 0.056,
+  "false_flag_no_attack": 0.278,
+  "false_flag_no_attack_iter": 0.278,
+  "elo_rank_gain": 20.25
+ },
+ {
+  "f": 0.9,
+  "lam": 1.0,
+  "detect": 1.0,
+  "fp_honest": 0.083,
+  "detect_iter": 1.0,
+  "fp_honest_iter": 0.056,
+  "false_flag_no_attack": 0.278,
+  "false_flag_no_attack_iter": 0.278,
+  "elo_rank_gain": 20.333
+ },
+ {
+  "f": 1.0,
+  "lam": 0.25,
+  "detect": 0.917,
+  "fp_honest": 0.0,
+  "detect_iter": 0.917,
+  "fp_honest_iter": 0.028,
+  "false_flag_no_attack": 0.306,
+  "false_flag_no_attack_iter": 0.306,
+  "elo_rank_gain": 18.944
+ },
+ {
+  "f": 1.0,
+  "lam": 0.5,
+  "detect": 1.0,
+  "fp_honest": 0.0,
+  "detect_iter": 1.0,
+  "fp_honest_iter": 0.028,
+  "false_flag_no_attack": 0.306,
+  "false_flag_no_attack_iter": 0.306,
+  "elo_rank_gain": 20.306
+ },
+ {
+  "f": 1.0,
+  "lam": 1.0,
+  "detect": 1.0,
+  "fp_honest": 0.028,
+  "detect_iter": 1.0,
+  "fp_honest_iter": 0.028,
+  "false_flag_no_attack": 0.306,
+  "false_flag_no_attack_iter": 0.306,
+  "elo_rank_gain": 20.333
+ }
+]

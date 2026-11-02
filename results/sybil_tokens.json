@@ -1,0 +1,42 @@
+[
+ {
+  "mode": "tokens",
+  "attack_matches": 0,
+  "mass_S": 0.0,
+  "bound": 0.0,
+  "share_equal": 0.1729,
+  "share_entropy": 0.1876,
+  "share_trust_entropy": 0.0,
+  "honest_low_trust": 0.0
+ },
+ {
+  "mode": "tokens",
+  "attack_matches": 10,
+  "mass_S": 0.0013,
+  "bound": 0.0014,
+  "share_equal": 0.1729,
+  "share_entropy": 0.1875,
+  "share_trust_entropy": 0.0014,
+  "honest_low_trust": 0.007
+ },
+ {
+  "mode": "tokens",
+  "attack_matches": 50,
+  "mass_S": 0.0065,
+  "bound": 0.0068,
+  "share_equal": 0.1729,
+  "share_entropy": 0.1878,
+  "share_trust_entropy": 0.0078,
+  "honest_low_trust": 0.0348
+ },
+ {
+  "mode": "tokens",
+  "attack_matches": 200,
+  "mass_S": 0.0238,
+  "bound": 0.0278,
+  "share_equal": 0.1729,
+  "share_entropy": 0.1878,
+  "share_trust_entropy": 0.0324,
+  "honest_low_trust": 0.1394
+ }
+]

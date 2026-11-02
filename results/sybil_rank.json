@@ -1,0 +1,50 @@
+[
+ {
+  "mode": "rank",
+  "attack_matches": 0,
+  "mass_S": 0.0,
+  "bound": 0.0,
+  "rank_elo": 1.0,
+  "rank_bt": 1.0,
+  "rank_trust_bt": 46.0,
+  "target_trust": 0.0,
+  "sybils_eligible": 0.0,
+  "honest_ineligible": 0.0
+ },
+ {
+  "mode": "rank",
+  "attack_matches": 10,
+  "mass_S": 0.0013,
+  "bound": 0.0014,
+  "rank_elo": 1.0,
+  "rank_bt": 1.0,
+  "rank_trust_bt": 35.3333,
+  "target_trust": 0.0065,
+  "sybils_eligible": 0.0,
+  "honest_ineligible": 0.0
+ },
+ {
+  "mode": "rank",
+  "attack_matches": 50,
+  "mass_S": 0.0065,
+  "bound": 0.0068,
+  "rank_elo": 1.0,
+  "rank_bt": 1.0,
+  "rank_trust_bt": 7.3333,
+  "target_trust": 0.0348,
+  "sybils_eligible": 0.0,
+  "honest_ineligible": 0.0
+ },
+ {
+  "mode": "rank",
+  "attack_matches": 200,
+  "mass_S": 0.0238,
+  "bound": 0.0278,
+  "rank_elo": 1.0,
+  "rank_bt": 1.0,
+  "rank_trust_bt": 2.0,
+  "target_trust": 0.1149,
+  "sybils_eligible": 0.0,
+  "honest_ineligible": 0.0
+ }
+]
