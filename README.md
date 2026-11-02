@@ -1,7 +1,7 @@
 # Games That Don't Die
 
 Code and data for the paper **"Games That Don't Die: Operator-Independent Competitive Infrastructure for
-Abandoned Multiplayer Games"** (Félix Francia, draft v0.2, November 2026).
+Abandoned Multiplayer Games"** (Félix Francia, draft v0.2, November 2026). PDF: [`paper/games-that-dont-die-v0.2.pdf`](paper/games-that-dont-die-v0.2.pdf).
 
 When an online game loses its operator, communities can revive the servers, but the competitive memory
 (rankings, match history, titles) dies with whoever kept the database. The paper asks how a ranking can
